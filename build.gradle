@@ -38,7 +38,7 @@ plugins {
   id 'org.nosphere.apache.rat' version "0.7.1"
 
   id "com.github.spotbugs" version '5.0.9' apply false
-  id 'org.gradle.test-retry' version '1.4.0' apply false
+  id 'org.gradle.test-retry' version '1.6.0' apply false
   id 'org.scoverage' version '7.0.0' apply false
   id 'com.github.johnrengelman.shadow' version '7.1.2' apply false
   id "io.swagger.core.v3.swagger-gradle-plugin" version "2.2.0"
